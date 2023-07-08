@@ -8,7 +8,7 @@
 import Foundation
 
 public func doDPFrog() {
-    print("==== 動的計画法(DP) ====")
+    print("==== DP(Frog) ====")
     let cost = minCost(at: h.count-1)
     print("最小コストは \(cost)")
 }
