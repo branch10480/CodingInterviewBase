@@ -9,4 +9,4 @@ import Foundation
 import AppFeature
 
 // ダイクストラ法
-dijkstra()
+doDijkstra()
