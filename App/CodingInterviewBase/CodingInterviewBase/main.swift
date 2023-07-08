@@ -24,4 +24,7 @@ doPractice()
 //doMemorizationRecursion()
 
 // 動的計画法(DP) Frog問題
-doDPFrog()
+//doDPFrog()
+
+// DP(ナップザック問題)
+doKnapsack()
