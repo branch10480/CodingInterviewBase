@@ -8,6 +8,9 @@
 import Foundation
 import AppFeature
 
+// 練習
+doPractice()
+
 // ダイクストラ法
 //doDijkstra()
 
@@ -15,4 +18,4 @@ import AppFeature
 //doFloydWarshall()
 
 // ベルマンフォード法
-doBellmanFord()
+//doBellmanFord()
