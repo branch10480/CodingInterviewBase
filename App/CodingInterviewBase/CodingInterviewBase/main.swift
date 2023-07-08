@@ -9,4 +9,7 @@ import Foundation
 import AppFeature
 
 // ダイクストラ法
-doDijkstra()
+//doDijkstra()
+
+// ワーシャルフロイド法
+doFloydWarshall()
