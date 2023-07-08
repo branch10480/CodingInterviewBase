@@ -22,3 +22,6 @@ doPractice()
 
 // メモ化再帰
 //doMemorizationRecursion()
+
+// 動的計画法(DP) Frog問題
+doDPFrog()

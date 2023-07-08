@@ -2,6 +2,7 @@ import Common
 
 /*
  フィボナッチ数列の n番目の数字を求める fib(n) を考える
+ これは動的計画法(DP)の一種
  */
 
 public func doMemorizationRecursion() {
