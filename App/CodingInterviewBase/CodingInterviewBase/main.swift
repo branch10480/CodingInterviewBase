@@ -12,4 +12,7 @@ import AppFeature
 //doDijkstra()
 
 // ワーシャルフロイド法
-doFloydWarshall()
+//doFloydWarshall()
+
+// ベルマンフォード法
+doBellmanFord()
